@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - Entry block
  * @void: no argument
@@ -6,7 +6,7 @@
  */
  int main(void)
  {
- char i[] = "putchar";
+ char i[] = "_putchar";
  int c;
  for (c = 0; c < 8; c++)
  {
