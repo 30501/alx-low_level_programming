@@ -1,6 +1,7 @@
-#include "main.h"
+#include <stdio.h>
+#include <main.h>
 /**
- * main - Entry block
+ * main - Entry point
  * @void: no argument
  * Return: 0 Always (success/correct)
  */
